@@ -35,22 +35,21 @@ button {
   text-transform: uppercase;
   transition: all 0.1s ease;
 }
-
+/* Button 1 */
 .btn-1 {
   border: 2px solid #01e3ef;
 }
 
 .btn-1:hover {
   border:1px solid #60f7ff;
-  color: #050a0e;
   color: #fff;
-    background: #01e3ef;
-    box-shadow: 0 0 10px #01e3ef,
-                0 0 40px #01e3ef,
-                0 0 80px #01e3ef;
+  background: #01e3ef;
+  box-shadow: 0 0 10px #01e3ef,
+              0 0 40px #01e3ef,
+              0 0 80px #01e3ef;
   transition-delay: .1s;
 }
-
+/* Button 2 */
 .btn-2 {
   border: 2px solid #01e3ef;
   border-radius: 3px;
@@ -58,7 +57,6 @@ button {
 
 .btn-2:hover {
   border: 1px solid #60f7ff;
-  color: #050a0e;
   color: #fff;
   background: #01e3ef;
   box-shadow: 0 0 10px #01e3ef,
@@ -66,7 +64,7 @@ button {
               0 0 80px #01e3ef;
   transition-delay: .1s;
 }
-
+/* Button 3 */
 .btn-3 {
   border: 2px solid #01e3ef;
   border-radius: 6px;
@@ -74,7 +72,6 @@ button {
 
 .btn-3:hover {
   border: 1px solid #60f7ff;
-  color: #050a0e;
   color: #fff;
   background: #01e3ef;
   box-shadow: 0 0 10px #01e3ef,
@@ -82,7 +79,7 @@ button {
               0 0 80px #01e3ef;
   transition-delay: .1s;
 }
-
+/* Button 4 */
 .btn-4 {
   border: 2px solid #01e3ef;
   border-radius: 12px;
@@ -90,7 +87,6 @@ button {
 
 .btn-4:hover {
   border: 1px solid #60f7ff;
-  color: #050a0e;
   color: #fff;
   background: #01e3ef;
   box-shadow: 0 0 10px #01e3ef,
@@ -98,7 +94,7 @@ button {
               0 0 80px #01e3ef;
   transition-delay: .1s;
 }
-
+/* Button 5 */
 .btn-5 {
   border: 2px solid #01e3ef;
   border-radius: 24px;
@@ -106,7 +102,6 @@ button {
 
 .btn-5:hover {
   border: 1px solid #60f7ff;
-  color: #050a0e;
   color: #fff;
   background: #01e3ef;
   box-shadow: 0 0 10px #01e3ef,
@@ -114,7 +109,7 @@ button {
               0 0 80px #01e3ef;
   transition-delay: .1s;
 }
-
+/* Button 6 */
 .btn-6 {
   border: 2px solid #01e3ef;
   border-radius: 100px;
@@ -122,7 +117,6 @@ button {
 
 .btn-6:hover {
   border: 1px solid #60f7ff;
-  color: #050a0e;
   color: #fff;
   background: #01e3ef;
   box-shadow: 0 0 10px #01e3ef,
@@ -130,7 +124,7 @@ button {
               0 0 80px #01e3ef;
   transition-delay: .1s;
 }
-
+/* Button 7 */
 .btn-7 {
   border: 2px solid #01e3ef;
   border-radius: 10px 100px / 120px;
@@ -138,7 +132,6 @@ button {
 
 .btn-7:hover {
   border: 1px solid #60f7ff;
-  color: #050a0e;
   color: #fff;
   background: #01e3ef;
   box-shadow: 0 0 10px #01e3ef,
@@ -146,7 +139,7 @@ button {
               0 0 80px #01e3ef;
   transition-delay: .1s;
 }
-/* btn rounded */
+/* Button 8 rounded*/
 .btn-8 {
   width: 120px;
   height: 120px;
@@ -156,7 +149,6 @@ button {
 
 .btn-8:hover {
   border: 1px solid #60f7ff;
-  color: #050a0e;
   color:#fff;
   background: #01e3ef;
   box-shadow: 0 0 10px #01e3ef,
