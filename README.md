@@ -1,5 +1,6 @@
-Buttons neon style
+
 
 https://codepen.io/Aarigan/pen/ZEjzXKX
 
-[neon-button](https://user-images.githubusercontent.com/52601835/206828778-0a40fa76-7b88-4e99-b419-e91f55796c39.png)
+
+[glow-button](https://user-images.githubusercontent.com/52601835/208810566-ffec9af3-9851-4c09-b77d-9c42e3365f6c.png)
