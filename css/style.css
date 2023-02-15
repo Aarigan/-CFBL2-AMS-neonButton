@@ -44,13 +44,13 @@ button {
 }
 /* Button 1 */
 .btn-1 {
-  border: 2px solid #01e3ef;
+  border: 2px solid var(--clr-cl1);
 }
 
 .btn-1:hover {
   border:1px solid #60f7ff;
   color: #fff;
-  background: #01e3ef;
+  background: var(--clr-cl1);
   box-shadow: 0 0 10px #01e3ef,
               0 0 40px #01e3ef,
               0 0 80px #01e3ef;
@@ -58,14 +58,14 @@ button {
 }
 /* Button 2 */
 .btn-2 {
-  border: 2px solid #01e3ef;
+  border: 2px solid var(--clr-cl1);
   border-radius: 3px;
 }
 
 .btn-2:hover {
   border: 1px solid #60f7ff;
   color: #fff;
-  background: #01e3ef;
+  background: var(--clr-cl1);
   box-shadow: 0 0 10px #01e3ef,
               0 0 40px #01e3ef,
               0 0 80px #01e3ef;
@@ -73,14 +73,14 @@ button {
 }
 /* Button 3 */
 .btn-3 {
-  border: 2px solid #01e3ef;
+  border: 2px solid var(--clr-cl1);
   border-radius: 6px;
 }
 
 .btn-3:hover {
   border: 1px solid #60f7ff;
   color: #fff;
-  background: #01e3ef;
+  background: var(--clr-cl1);
   box-shadow: 0 0 10px #01e3ef,
               0 0 40px #01e3ef,
               0 0 80px #01e3ef;
@@ -88,14 +88,14 @@ button {
 }
 /* Button 4 */
 .btn-4 {
-  border: 2px solid #01e3ef;
+  border: 2px solid var(--clr-cl1);
   border-radius: 12px;
 }
 
 .btn-4:hover {
   border: 1px solid #60f7ff;
   color: #fff;
-  background: #01e3ef;
+  background: var(--clr-cl1);
   box-shadow: 0 0 10px #01e3ef,
               0 0 40px #01e3ef,
               0 0 80px #01e3ef;
@@ -103,14 +103,14 @@ button {
 }
 /* Button 5 */
 .btn-5 {
-  border: 2px solid #01e3ef;
+  border: 2px solid var(--clr-cl1);
   border-radius: 24px;
 }
 
 .btn-5:hover {
   border: 1px solid #60f7ff;
   color: #fff;
-  background: #01e3ef;
+  background: var(--clr-cl1);
   box-shadow: 0 0 10px #01e3ef,
               0 0 40px #01e3ef,
               0 0 80px #01e3ef;
@@ -118,14 +118,14 @@ button {
 }
 /* Button 6 */
 .btn-6 {
-  border: 2px solid #01e3ef;
+  border: 2px solid var(--clr-cl1);
   border-radius: 100px;
 }
 
 .btn-6:hover {
   border: 1px solid #60f7ff;
   color: #fff;
-  background: #01e3ef;
+  background: var(--clr-cl1);
   box-shadow: 0 0 10px #01e3ef,
               0 0 40px #01e3ef,
               0 0 80px #01e3ef;
@@ -133,14 +133,14 @@ button {
 }
 /* Button 7 */
 .btn-7 {
-  border: 2px solid #01e3ef;
+  border: 2px solid var(--clr-cl1);
   border-radius: 10px 100px / 120px;
 }
 
 .btn-7:hover {
   border: 1px solid #60f7ff;
   color: #fff;
-  background: #01e3ef;
+  background: var(--clr-cl1);
   box-shadow: 0 0 10px #01e3ef,
               0 0 40px #01e3ef,
               0 0 80px #01e3ef;
@@ -151,13 +151,13 @@ button {
   width: 120px;
   height: 120px;
   border-radius: 50%;
-  border: 2px solid #01e3ef;  
+  border: 2px solid var(--clr-cl1);  
 }
 
 .btn-8:hover {
   border: 1px solid #60f7ff;
   color:#fff;
-  background: #01e3ef;
+  background: var(--clr-cl1);
   box-shadow: 0 0 10px #01e3ef,
               0 0 40px #01e3ef,
               0 0 80px #01e3ef;
