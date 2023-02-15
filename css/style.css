@@ -96,9 +96,9 @@ button {
   border: 1px solid var(--clr-cl2);
   color: var(--clr-wht);
   background: var(--clr-cl1);
-  box-shadow: 0 0 10px #01e3ef,
-              0 0 40px #01e3ef,
-              0 0 80px #01e3ef;
+  box-shadow: 0 0 10px var(--clr-cl1),
+              0 0 40px var(--clr-cl1),
+              0 0 80px var(--clr-cl1);
   transition-delay: .1s;
 }
 /* Button 5 */
@@ -111,9 +111,9 @@ button {
   border: 1px solid var(--clr-cl2);
   color: var(--clr-wht);
   background: var(--clr-cl1);
-  box-shadow: 0 0 10px #01e3ef,
-              0 0 40px #01e3ef,
-              0 0 80px #01e3ef;
+  box-shadow: 0 0 10px var(--clr-cl1),
+              0 0 40px var(--clr-cl1),
+              0 0 80px var(--clr-cl1);
   transition-delay: .1s;
 }
 /* Button 6 */
@@ -126,9 +126,9 @@ button {
   border: 1px solid var(--clr-cl2);
   color: var(--clr-wht);
   background: var(--clr-cl1);
-  box-shadow: 0 0 10px #01e3ef,
-              0 0 40px #01e3ef,
-              0 0 80px #01e3ef;
+  box-shadow: 0 0 10px var(--clr-cl1),
+              0 0 40px var(--clr-cl1),
+              0 0 80px var(--clr-cl1);
   transition-delay: .1s;
 }
 /* Button 7 */
@@ -141,9 +141,9 @@ button {
   border: 1px solid var(--clr-cl2);
   color: var(--clr-wht);
   background: var(--clr-cl1);
-  box-shadow: 0 0 10px #01e3ef,
-              0 0 40px #01e3ef,
-              0 0 80px #01e3ef;
+  box-shadow: 0 0 10px var(--clr-cl1),
+              0 0 40px var(--clr-cl1),
+              0 0 80px var(--clr-cl1);
   transition-delay: .1s;
 }
 /* Button 8 rounded*/
@@ -158,8 +158,8 @@ button {
   border: 1px solid var(--clr-cl2);
   color: var(--clr-wht);
   background: var(--clr-cl1);
-  box-shadow: 0 0 10px #01e3ef,
-              0 0 40px #01e3ef,
-              0 0 80px #01e3ef;
+  box-shadow: 0 0 10px var(--clr-cl1),
+              0 0 40px var(--clr-cl1),
+              0 0 80px var(--clr-cl1);
   transition-delay: .1s;
 }
