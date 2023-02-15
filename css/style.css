@@ -31,7 +31,7 @@ body {
 
 button {
   display: inline-block;
-  color: #01e3ef;
+  color: var(--clr-cl1);
   background: var(--clr-bg1);
   text-align: center;
   font-size: 24px;
