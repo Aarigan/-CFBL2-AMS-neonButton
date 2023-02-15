@@ -48,7 +48,7 @@ button {
 }
 
 .btn-1:hover {
-  border:1px solid #60f7ff;
+  border:1px solid var(--clr-cl2);
   color: var(--clr-wht);
   background: var(--clr-cl1);
   box-shadow: 0 0 10px #01e3ef,
@@ -63,7 +63,7 @@ button {
 }
 
 .btn-2:hover {
-  border: 1px solid #60f7ff;
+  border: 1px solid var(--clr-cl2);
   color: var(--clr-wht);
   background: var(--clr-cl1);
   box-shadow: 0 0 10px #01e3ef,
@@ -78,7 +78,7 @@ button {
 }
 
 .btn-3:hover {
-  border: 1px solid #60f7ff;
+  border: 1px solid var(--clr-cl2);
   color: var(--clr-wht);
   background: var(--clr-cl1);
   box-shadow: 0 0 10px #01e3ef,
@@ -93,7 +93,7 @@ button {
 }
 
 .btn-4:hover {
-  border: 1px solid #60f7ff;
+  border: 1px solid var(--clr-cl2);
   color: var(--clr-wht);
   background: var(--clr-cl1);
   box-shadow: 0 0 10px #01e3ef,
@@ -108,7 +108,7 @@ button {
 }
 
 .btn-5:hover {
-  border: 1px solid #60f7ff;
+  border: 1px solid var(--clr-cl2);
   color: var(--clr-wht);
   background: var(--clr-cl1);
   box-shadow: 0 0 10px #01e3ef,
@@ -123,7 +123,7 @@ button {
 }
 
 .btn-6:hover {
-  border: 1px solid #60f7ff;
+  border: 1px solid var(--clr-cl2);
   color: var(--clr-wht);
   background: var(--clr-cl1);
   box-shadow: 0 0 10px #01e3ef,
@@ -138,7 +138,7 @@ button {
 }
 
 .btn-7:hover {
-  border: 1px solid #60f7ff;
+  border: 1px solid var(--clr-cl2);
   color: var(--clr-wht);
   background: var(--clr-cl1);
   box-shadow: 0 0 10px #01e3ef,
@@ -155,7 +155,7 @@ button {
 }
 
 .btn-8:hover {
-  border: 1px solid #60f7ff;
+  border: 1px solid var(--clr-cl2);
   color: var(--clr-wht);
   background: var(--clr-cl1);
   box-shadow: 0 0 10px #01e3ef,
