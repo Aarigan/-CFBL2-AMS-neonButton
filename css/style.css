@@ -40,6 +40,7 @@ button {
   padding: 12px 24px;
   text-decoration: none;
   text-transform: uppercase;
+ /* outline-color: transparent; */
   transition: all 0.1s ease;
 }
 /* Button 1 */
